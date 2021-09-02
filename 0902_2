@@ -1,9 +1,0 @@
-p = input()
-q = input()
-result1 = int(p) + int(q)
-result2 = int(p) * int(q)
-result3 = int(p) ** int(q)
-
-print(result1)
-print(result2)
-print(result3)
